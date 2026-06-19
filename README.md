@@ -48,19 +48,20 @@ one letter at a time,with limited chances — each incorrect guess draws another
 > Understanding random number generation
 
 **Output screenshot 📸:**
-* User Interface :
 
+*** User Interface :
+**
 
   <img width="737" height="702" alt="user interface" src="https://github.com/user-attachments/assets/5877bd7b-3fd4-4e56-988a-1e7cd0d49463" />
 
-* If letter guessed is correct:
+* **If letter guessed is correct:**
  
     <img width="823" height="489" alt="img-2" src="https://github.com/user-attachments/assets/2fdbac00-0f12-4e93-9684-d4b8a27c8e35" />
 
 
    - It replaces with '_' to correct latter.
    
- * If letter guessed is incorrect :
+ * **If letter guessed is incorrect :**
  
 
     <img width="705" height="492" alt="img-1" src="https://github.com/user-attachments/assets/2c84cac8-1a17-4856-94e2-20be145e8b64" />
@@ -69,7 +70,7 @@ one letter at a time,with limited chances — each incorrect guess draws another
    - If wrong the hangman stages are shown.
    - Also the chances decreases.
 
- * If chances are over :
+ *** If chances are over :**
  
 
 
@@ -81,7 +82,7 @@ one letter at a time,with limited chances — each incorrect guess draws another
  
 
  
- * If user choose y(yes):
+ * **If user choose y(yes):**
  
 
 
@@ -93,7 +94,7 @@ one letter at a time,with limited chances — each incorrect guess draws another
 
 
 
- * If user choose n(no):
+ * **If user choose n(no):**
  
 
     <img width="631" height="248" alt="img-5" src="https://github.com/user-attachments/assets/dd1c24be-6172-40b9-ad1e-1ea735e7092d" />
